@@ -196,7 +196,7 @@ Every decision is documented with reasoning and the conditions under which it sh
 ### The backlog has not recovered from COVID.
 
 <p align="center">
-  <img src="docs/images/dashboard_full.png" width="760" alt="Full dashboard showing waiting vs completed trend over time" />
+  <img src="docs/images/Screenshot 2026-03-16 212906.png" width="760" alt="Full dashboard showing waiting vs completed trend over time" />
 </p>
 
 The bottom trend line tells the clearest story. Both waiting and completed volumes have been climbing since FY2009/10, but waiting has grown faster. The two lines diverge steadily, with a visible disruption during COVID years (2020/21 and 2021/22) where completions dropped sharply due to policy-driven surgical deferrals. Post-COVID, completions recovered but the gap between waiting and completed did not close. As of FY2024/25 (provisional), the province has approximately 5 million cumulative patients who have been on a wait list and 4 million cumulative completed surgeries. The backlog is not being drawn down. It is being maintained.
@@ -204,7 +204,7 @@ The bottom trend line tells the clearest story. Both waiting and completed volum
 ### Every health authority has more patients waiting than being completed on average.
 
 <p align="center">
-  <img src="docs/images/regional_comparison.png" width="760" alt="Average waiting vs completed by health authority" />
+  <img src="docs/images/Screenshot 2026-03-16 210114.png" width="760" alt="Average waiting vs completed by health authority" />
 </p>
 
 Vancouver Coastal carries the highest average volumes for both waiting and completed cases, followed by Vancouver Island and Fraser. Northern Health has the lowest volumes, but that reflects population size, not necessarily better access. The critical observation is that in every single region, the red bar (waiting) exceeds the green bar (completed). No health authority is currently completing surgeries faster than new patients are being added to the wait list.
