@@ -16,7 +16,7 @@
 ## See the Dashboard
 
 <p align="center">
-  <img src="docs/images/dashboard_full.png" width="760" alt="BC Surgical Wait Times Dashboard showing KPI cards, regional comparison, and trend line" />
+  <img src="docs/images/Recording 2026-03-16 210253.gif" width="760" alt="BC Surgical Wait Times Dashboard showing KPI cards, regional comparison, and trend line" />
 </p>
 
 Four million surgeries completed. Five million patients still waiting. A median wait of 8.62 days that sounds reasonable until you see the P90 sitting at 22.30 days, meaning the longest waiting 10% of patients wait nearly three times longer than the median. That spread is where the real story lives, and it is the thing a simple average would have hidden completely.
