@@ -24,6 +24,9 @@ Four million surgeries completed. Five million patients still waiting. A median 
 <br>
 
 ---
+## Key Findings
+
+The provincial surgical backlog has not recovered from COVID. Total patients waiting remains above the FY2018/19 pre-COVID baseline, and the gap between waiting and completed volumes has widened steadily since 2009/10. Every single health authority shows more patients waiting than being completed on average, meaning no region is currently drawing down its backlog. Vancouver Coastal carries the highest absolute volumes, while Northern Health has the lowest, though that reflects population size, not better access. The most revealing number is the spread between P50 (8.62 days) and P90 (22.30 days): the median looks manageable, but the longest waiting 10% of patients wait nearly three times longer, and that tail is invisible in any summary that reports only the average. FY2024/25 figures are provisional and should be treated as preliminary.
 
 ## The Starting Point: A Question, Not a Dataset
 
